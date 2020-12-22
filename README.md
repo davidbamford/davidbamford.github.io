@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Design is an application for all constructive thinking
 
 You can use the [editor on GitHub](https://github.com/davidbamford/davidbamford.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
